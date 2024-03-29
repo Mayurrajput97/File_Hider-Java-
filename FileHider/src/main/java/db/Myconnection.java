@@ -28,8 +28,4 @@ public class Myconnection {
             }
         }
     }
-
-    public static void main(String[] args) {
-        Myconnection.getConnection();
-    }
 }
